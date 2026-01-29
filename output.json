@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "action": "insert",
+        "table": "aduan",
+        "data": "{\"NOREG\":4045,\"NAMAL\":\"zacky\",\"ALAMATL\":\"balowerti nomor 3A\",\"TGLADU\":\"2025-06-26\",\"STATUS\":\"Pending\",\"JADU\":\"2025-06-26T01:40:04.000000Z\",\"TINDAK\":null,\"TGSELESAI\":null,\"HP\":\"089762345677\",\"NOPER\":\"887678\",\"EDSELES\":null}",
+        "status": "pending",
+        "created_at": "2025-06-26 01:40:04",
+        "updated_at": "2025-06-26 01:40:04"
+    },
+    {
+        "id": 2,
+        "action": "insert",
+        "table": "aduan",
+        "data": "{\"NOREG\":4050,\"NAMAL\":\"gigih\",\"ALAMATL\":\"perumahan banaran asri\",\"TGLADU\":\"2025-06-26\",\"STATUS\":\"Pending\",\"JADU\":\"2025-06-26T07:29:40.000000Z\",\"TINDAK\":null,\"TGSELESAI\":null,\"HP\":\"801277701239\",\"NOPER\":null,\"LAIN1\":\"ada meteran yang rusak\"}",
+        "status": "pending",
+        "created_at": "2025-06-26 07:29:40",
+        "updated_at": "2025-06-26 07:29:40"
+    },
+    {
+        "id": 3,
+        "action": "insert",
+        "table": "aduan",
+        "data": "{\"NOREG\":4051,\"NAMAL\":\"nanang\",\"ALAMATL\":\"perumahan wilis indah 2 block H. Raya No. 42\",\"TGLADU\":\"2025-06-26\",\"STATUS\":\"Pending\",\"JADU\":\"2025-06-26T07:59:54.000000Z\",\"TINDAK\":null,\"TGSELESAI\":null,\"HP\":\"1234565434567\",\"NOPER\":null,\"LAIN1\":\"air kotor di arae perumahan\"}",
+        "status": "pending",
+        "created_at": "2025-06-26 07:59:54",
+        "updated_at": "2025-06-26 07:59:54"
+    },
+    {
+        "id": 4,
+        "action": "insert",
+        "table": "aduan",
+        "data": "{\"NOREG\":4052,\"NAMAL\":\"galang\",\"ALAMATL\":\"perumahan wilis indah 2 block H. Raya No. 30\",\"TGLADU\":\"2025-06-26\",\"STATUS\":\"Pending\",\"JADU\":\"2025-06-26T13:46:18.000000Z\",\"TINDAK\":null,\"TGSELESAI\":null,\"HP\":\"4210894908\",\"NOPER\":null,\"LAIN1\":\"air nya kotor 2 hari\"}",
+        "status": "pending",
+        "created_at": "2025-06-26 13:46:18",
+        "updated_at": "2025-06-26 13:46:18"
+    },
+    {
+        "id": 5,
+        "action": "insert",
+        "table": "aduan",
+        "data": "{\"NOREG\":4053,\"NAMAL\":\"jojo\",\"ALAMATL\":\"jalan super semar no.5\",\"TGLADU\":\"2025-06-26\",\"STATUS\":\"Pending\",\"JADU\":\"2025-06-26T13:52:45.000000Z\",\"TINDAK\":null,\"TGSELESAI\":null,\"HP\":\"8590423125\",\"NOPER\":null,\"LAIN1\":\"ada keran yang rusak di pinggir jalan\"}",
+        "status": "pending",
+        "created_at": "2025-06-26 13:52:45",
+        "updated_at": "2025-06-26 13:52:45"
+    },
+    {
+        "id": 6,
+        "action": "insert",
+        "table": "aduan",
+        "data": "{\"NOREG\":4054,\"NAMAL\":\"slamet\",\"ALAMATL\":\"jalan super semar no.33\",\"TGLADU\":\"2025-06-26\",\"STATUS\":\"Pending\",\"JADU\":\"2025-06-26T14:20:15.000000Z\",\"TINDAK\":null,\"TGSELESAI\":null,\"HP\":\"629372103879\",\"NOPER\":\"67687\",\"LAIN1\":\"meteran sudah macet jadi harus diganti yang baru\"}",
+        "status": "pending",
+        "created_at": "2025-06-26 14:20:15",
+        "updated_at": "2025-06-26 14:20:15"
+    }
+]

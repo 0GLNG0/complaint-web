@@ -38,3 +38,5 @@ Thumbs.db
 # Homestead
 Homestead.yaml
 Homestead.json
+
+.vercel
